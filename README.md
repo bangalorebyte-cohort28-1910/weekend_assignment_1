@@ -1,4 +1,4 @@
-# 16-9-StockTerminalApp
+# StockTerminalApp
 
 Weekend Assignments for Python-Full Stack
 
@@ -46,6 +46,7 @@ http://dev.markitondemand.com/MODApis/Api/v2/Quote/json?symbol=MSFT
     * view their "portfolio"
         * what are their total worth of stocks plus the money in the wallet
         * view their list of stocks
+
 ##### Part 4 - Admin
 * Create a superuser who can see a leaderboard that displays the top ten users by portfolio earnings. 
 
